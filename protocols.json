@@ -1,1 +1,38 @@
-[]
+[{
+  "uuid": "123e4567-e89b-12d3-a456-426614174000",
+  "name": "Sample Protocol",
+  "internal_code": "SP-001",
+  "description": "This is a sample protocol for demonstration purposes.",
+  "creation_time": "2024-09-10T12:00:00Z",
+  "update_time": "2024-09-10T14:00:00Z",
+  "versions": [
+    {
+      "version_num": "1.0",
+      "version_type": "Initial Release",
+      "release_time": "2024-09-10T13:00:00Z"
+    },
+    {
+      "version_num": "1.1",
+      "version_type": "Minor Update",
+      "release_time": "2024-09-11T10:00:00Z"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Dr. Alice Example",
+      "contact": "alice@example.com"
+    },
+    {
+      "name": "Dr. Bob Researcher",
+      "contact": "bob@example.com"
+    }
+  ],
+  "responsibles": [
+    {
+      "name": "Dr. Charlie Supervisor",
+      "contact": "charlie@example.com"
+    }
+  ],
+  "remarks": "This protocol is subject to periodic reviews."
+}
+]
