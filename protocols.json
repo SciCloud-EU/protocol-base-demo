@@ -1,38 +1,100 @@
-[{
-  "uuid": "123e4567-e89b-12d3-a456-426614174000",
-  "name": "Sample Protocol",
-  "internal_code": "SP-001",
-  "description": "This is a sample protocol for demonstration purposes.",
-  "creation_time": "2024-09-10T12:00:00Z",
-  "update_time": "2024-09-10T14:00:00Z",
-  "versions": [
-    {
-      "version_num": "1.0",
-      "version_type": "Initial Release",
-      "release_time": "2024-09-10T13:00:00Z"
-    },
-    {
-      "version_num": "1.1",
-      "version_type": "Minor Update",
-      "release_time": "2024-09-11T10:00:00Z"
-    }
-  ],
-  "authors": [
-    {
-      "name": "Dr. Alice Example",
-      "contact": "alice@example.com"
-    },
-    {
-      "name": "Dr. Bob Researcher",
-      "contact": "bob@example.com"
-    }
-  ],
-  "responsibles": [
-    {
-      "name": "Dr. Charlie Supervisor",
-      "contact": "charlie@example.com"
-    }
-  ],
-  "remarks": "This protocol is subject to periodic reviews."
-}
+[
+  {
+    "uuid": "123e4567-e89b-12d3-a456-426614174001",
+    "name": "Protocol for Cell Culture",
+    "internal_code": "CC-2024-001",
+    "description": "Detailed steps for culturing mammalian cells under sterile conditions.",
+    "creation_time": "2024-09-05T08:30:00Z",
+    "update_time": "2024-09-10T10:15:00Z",
+    "versions": [
+      {
+        "version_num": "1.0",
+        "version_type": "Initial Release",
+        "release_time": "2024-09-05T09:00:00Z"
+      },
+      {
+        "version_num": "1.1",
+        "version_type": "Minor Correction",
+        "release_time": "2024-09-08T11:00:00Z"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Dr. Jane Doe",
+        "contact": "jane.doe@lab.com"
+      }
+    ],
+    "responsibles": [
+      {
+        "name": "Dr. Emily Supervisor",
+        "contact": "emily.supervisor@lab.com"
+      }
+    ],
+    "remarks": "Ensure that all equipment is sterilized before starting."
+  },
+  {
+    "uuid": "123e4567-e89b-12d3-a456-426614174002",
+    "name": "RNA Extraction Protocol",
+    "internal_code": "RNA-2024-002",
+    "description": "Standard protocol for isolating RNA from tissue samples.",
+    "creation_time": "2024-09-06T12:00:00Z",
+    "update_time": "2024-09-09T16:30:00Z",
+    "versions": [
+      {
+        "version_num": "1.0",
+        "version_type": "Initial Release",
+        "release_time": "2024-09-06T13:00:00Z"
+      },
+      {
+        "version_num": "1.1",
+        "version_type": "Update with New Reagents",
+        "release_time": "2024-09-09T15:00:00Z"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Dr. John Smith",
+        "contact": "john.smith@research.org"
+      },
+      {
+        "name": "Dr. Sarah Lee",
+        "contact": "sarah.lee@research.org"
+      }
+    ],
+    "responsibles": [
+      {
+        "name": "Dr. Olivia Manager",
+        "contact": "olivia.manager@research.org"
+      }
+    ],
+    "remarks": "Store extracted RNA at -80°C."
+  },
+  {
+    "uuid": "123e4567-e89b-12d3-a456-426614174003",
+    "name": "PCR Amplification Protocol",
+    "internal_code": "PCR-2024-003",
+    "description": "Protocol for performing Polymerase Chain Reaction (PCR) to amplify DNA.",
+    "creation_time": "2024-09-07T10:45:00Z",
+    "update_time": "2024-09-10T09:20:00Z",
+    "versions": [
+      {
+        "version_num": "1.0",
+        "version_type": "Initial Release",
+        "release_time": "2024-09-07T11:00:00Z"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Dr. Alice Roberts",
+        "contact": "alice.roberts@biotech.com"
+      }
+    ],
+    "responsibles": [
+      {
+        "name": "Dr. Benjamin Supervisor",
+        "contact": "benjamin.supervisor@biotech.com"
+      }
+    ],
+    "remarks": "Use freshly prepared master mix for optimal results."
+  }
 ]
