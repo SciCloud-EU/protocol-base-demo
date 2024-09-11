@@ -1,9 +1,9 @@
 [
   {
     "uuid": "016721e8-555e-4c66-a92e-7a0068d155b8",
-    "name": "Test 1",
-    "internalCode": "T-001",
-    "description": "DSfd sgdfhg dfhtesrtgghb sdfhs gfh fdsh gasre tgadfg asdf gasdfdf gd sfgaser g dfgdfg",
+    "name": "Preparation of Sea Spray Aerosol Samples for Metabolomics Analysis",
+    "internalCode": "SP-079",
+    "description": "The goal of this method is to prepare sea spray aerosol (SSA) samples collected on Quartz Microfiber (QM-A, Whatman) filters for metabolomics analysis or cell line exposure experiments. The final extracts may contain a range of organic compounds, including metabolites, phycotoxins, and other bioactive molecules present in the SSA. Methanol containing ammonium hydroxide is used as the eluent as it has good solubility for a diverse range of organic compounds. Optionally, acetonitrile can be used for reconstitution of the extract to make it compatible with analytical techniques for example HPLC-MS and LA-REIMS.",
     "creationTime": 1726045488,
     "updateTime": 1726045488,
     "versions": [
